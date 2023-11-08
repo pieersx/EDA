@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Los problemas algorítmicos}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Análisis del problema}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Pseudocódigo}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Estructura de un programa en PYTHON}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Programa de computadora}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Programas básicos}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Entrada y salida en un programa PYTHON}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Programas de secuencia lineal}{6}{section.3}%
